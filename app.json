@@ -1,0 +1,6 @@
+{
+    "name": "Securify Spring",
+    "description": "Web application allowing for multiple users to queue songs to a common playlist",
+    "repository": "https://github.com/wassimbouayad/securify-spring",
+    "keywords": ["spring"]
+  }
