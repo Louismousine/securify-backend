@@ -1,6 +1,6 @@
 # Securify
 
-Backend for music collaborative music streaming service. Uses spotify, google drive, youtube and gmail APIs.
+Backend for music collaborative music streaming service. Uses spotify, google drive, youtube and gmail APIs. Made in June 2019
 
 
 
@@ -15,6 +15,6 @@ Other configurations:
 2. Spotify - https://developer.spotify.com/dashboard/ login here to get a clientId and secret to then replace in application.properties
 3. Youtube - get secret key here https://console.developers.google.com/apis/credentials
 
-The API documentation can be found here http://localhost:8090/swagger-ui.html#/
+The API documentation can be found here http://localhost:8090/swagger-ui.html#/ (when the application is ran locally)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
